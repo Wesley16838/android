@@ -180,6 +180,7 @@
             android:layout_marginStart="8dp"
             android:layout_marginTop="8dp"
 
+            android:background="@drawable/button"
             android:onClick="senddatatoserver"
             android:text="Confirm"
             android:textColor="@android:color/background_light"
@@ -238,9 +239,10 @@
             android:layout_marginStart="8dp"
             android:layout_marginTop="8dp"
 
+            android:background="@drawable/border"
             android:onClick="sentnull"
             android:text="Track Order"
-            android:textColor="@android:color/background_light"
+            android:textColor="@color/colorPrimary"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.503"

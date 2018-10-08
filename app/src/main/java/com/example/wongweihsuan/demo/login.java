@@ -207,6 +207,7 @@ public class login extends AppCompatActivity {
             String inputLine;
 
             try {
+
                 //Create a URL object holding our url
                 URL myUrl = new URL("http://dev.vatm.io:8080/profile");
                 //Create a connection
@@ -291,6 +292,7 @@ public class login extends AppCompatActivity {
                     Toast.makeText(login.this,
                             "Account is not correct! Please register for free.", Toast.LENGTH_LONG).show();
                 }
+
             }
             catch(IOException e){
                 if (dialog.isShowing()) {

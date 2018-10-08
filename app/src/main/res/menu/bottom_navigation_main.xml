@@ -7,21 +7,24 @@
         android:id="@+id/action_profile"
         android:enabled="true"
 
+        android:icon="@mipmap/user"
         android:title="Profile"
-        app:showAsAction="ifRoom"/>
+        app:showAsAction="ifRoom" />
 
     <item
         android:id="@+id/action_transaction"
         android:enabled="true"
 
+        android:icon="@mipmap/transaction"
         android:title="Transaction"
-        app:showAsAction="ifRoom"/>
+        app:showAsAction="ifRoom" />
 
     <item
         android:id="@+id/action_logoff"
         android:enabled="true"
 
+        android:icon="@mipmap/logout"
         android:title="LogOff"
-        app:showAsAction="ifRoom"/>
+        app:showAsAction="ifRoom" />
 
 </menu>

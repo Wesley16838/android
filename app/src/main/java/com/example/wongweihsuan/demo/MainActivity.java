@@ -156,7 +156,7 @@ public class MainActivity extends AppCompatActivity {
         final JSONObject postData = new JSONObject();
         try {
             SharedPreferences shared = getSharedPreferences("info", Context.MODE_PRIVATE);
-//            Boolean isVendor = true;
+        //Boolean isVendor = true;
             if (!(isMailValid(Email))||Email==null) {
                 Toast.makeText(getApplicationContext(),"Email format is not correct or empty",Toast.LENGTH_LONG).show();
             }  else if(!(isPhoneValid(PhoneNumber))||PhoneNumber==null){

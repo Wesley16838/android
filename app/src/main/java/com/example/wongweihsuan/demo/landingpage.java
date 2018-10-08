@@ -14,7 +14,7 @@ private static int SPLASH_TIME_OUT=4000;
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
-                Intent welcomeIntent=new Intent(landingpage.this,welcome.class);
+                Intent welcomeIntent=new Intent(landingpage.this,login.class);
                 startActivity(welcomeIntent);
                 finish();
             }
