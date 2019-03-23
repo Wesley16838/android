@@ -10,7 +10,7 @@ This is the front-end part of the Vatm. Thus, please download android studio fir
 
 1.Android Studio
 
-<img src=image/vatm_studio.png">
+<img src="image/vatm_studio.png">
 
 
 ### Installing
