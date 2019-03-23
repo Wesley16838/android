@@ -22,7 +22,7 @@ https://developer.android.com/studio
 ## Running the tests
 
 Since it is going to send http request to the server, I need to turn on the server so the user can run the test.
-Or the user can download another repository which name is android_vatm_backend and run it on localhost:3000
+Or the user can download another repository which name is [android_vatm_backend](https://github.com/Wesley16838/android_vatm_backend) and run it on localhost:3000
 
 
 ### Features
