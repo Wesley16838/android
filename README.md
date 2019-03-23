@@ -15,10 +15,8 @@ This is the front-end part of the Vatm. Thus, please download android studio fir
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
+1. Download Android Studio
+https://developer.android.com/studio
 ```
 Give the example
 ```
