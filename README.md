@@ -29,7 +29,7 @@ Since it is going to send http request to the server and the company has remove 
 <img src="image/signuppage.png">
 2. Log in (post and get http request)
 <img src="image/loginpage.png">
-<img src="image/profilepage.png">
+<img src="image/profilepg.png">
 3. Track order (get http request)
 <img src="image/deliver.png">
 4. Place the order (post http request)
