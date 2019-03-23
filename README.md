@@ -21,16 +21,19 @@ https://developer.android.com/studio
 
 ## Running the tests
 
-Since it is going to send http request to the server, I need to turn on the server so the user can run the test.
-Or the user can download another repository which name is [android_vatm_backend](https://github.com/Wesley16838/android_vatm_backend) and run it on localhost:3000
-
+Since it is going to send http request to the server and the company has remove the server, so the user cannot test the feature.
 
 ### Features
 
 1. Sign up (post http request)
+<img src="image/signuppage.png">
 2. Log in (post and get http request)
+<img src="image/loginpage.png">
+<img src="image/profilepage.png">
 3. Track order (get http request)
+<img src="image/deliver.png">
 4. Place the order (post http request)
+<img src="image/cashback.png">
 5. Get the order (put http request)
 
 ## Authors
